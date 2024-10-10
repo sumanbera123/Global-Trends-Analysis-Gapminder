@@ -6,8 +6,9 @@ The modern world is shaped by complex dynamics in population, health, and econom
 
 Key Achievements:
 
-Analysed global trends using the Gapminder dataset with Python, employing libraries like Pandas, NumPy, and Seaborn for advanced Exploratory Data Analysis (EDA).
+  Analysed global trends using the Gapminder dataset with Python, employing libraries like Pandas, NumPy, and Seaborn for advanced Exploratory Data Analysis (EDA).
 
-Conducted data cleaning and pre-processing, including handling missing values and feature engineering. - Performed time-series, correlation, and clustering analyses to uncover key insights.
+  Conducted data cleaning and pre-processing, including handling missing values and feature engineering. - Performed time-series, correlation, and clustering analyses to       
+  uncover key insights.
 
-Developed interactive visualizations to illustrate trends in economic growth, life expectancy, and demographic changes.
+  Developed interactive visualizations to illustrate trends in economic growth, life expectancy, and demographic changes.
